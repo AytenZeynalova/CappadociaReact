@@ -10,8 +10,10 @@ import { CappadociaFooter } from './pages/Footer/Footer';
 
 function App() {
   return (
+    
     <div className="App">
         <CappadociaHeader/>
+        
         <CappadociaMain/>
         <CappadociaFooter/>
         

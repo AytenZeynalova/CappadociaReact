@@ -1,4 +1,4 @@
-import './cappdocia.scss';
+import './cappadocia.scss';
 import kartinkaimg from '../../assets/img/слайдер 1  картинка 2.png';
 import img1 from '../../assets/img/Rectangle 19.png';
 import img2 from '../../assets/img/Rectangle 24.png';
