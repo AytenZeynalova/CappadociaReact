@@ -1,0 +1,71 @@
+footer{
+    margin-top: 200px;
+    background-image: url('../../assets/img/Rectangle\ 42.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+display: flex;
+align-items: center;
+padding: 100px 200px;
+
+.dreams{
+    margin-left: 200px;
+    margin-bottom: 200px;
+    
+font-family: 'Balqis';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 115px;
+
+color: #000000;
+}
+    
+}
+
+
+.parasut{
+    background-image: url('../../assets/img/kisspng-flight-hot-air-balloon-computer-icons-aerostat-5afe08ad4b2f92\ 2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+
+    h1{
+        margin-top: 30px;
+        
+font-family: 'Balqis';
+font-style: normal;
+font-weight: 400;
+
+color: #E2AB3F;
+
+    }
+
+    i{
+color: #E2AB3F;
+    }
+
+    a{
+        color: black;
+        text-decoration: none;
+        font-size: smaller;
+    }
+    .icon{
+        margin-top: 10px;
+        display: inline-block;
+        i{
+            padding: 5px;
+        border-radius: 50%;
+            
+            color:white;
+            background-color: #E2AB3F;
+        }
+    }
+
+}
